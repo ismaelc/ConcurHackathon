@@ -39,7 +39,7 @@ For the Itinerary APIs (v1.1), full API documentation, and apps that use the API
 <a name="mashup">Ideas for a Concur-powered business travel app:</a>
 --
 
-Check out the Concur main prize and mashup category prizes in this [link](#prizes)
+These are just examples from past external hackathons. We'd love for you to think beyond the ideas presented below :)
 
 Mash-up | Idea
 ------------- | -------------
@@ -70,9 +70,7 @@ Find more app ideas [here](#example)
 <a name="prizes">Prizes</a>
 --
 
-- **Best Use of Concur API -- Up to $2,500 in Amazon Gift Cards** – For an app that demonstrates the best use of Concur APIs; prize distribution is $500 to each winning team member.
-- **Best Use of Concur API + Co-Sponsor API On-stage - Free passes to [The Perfect Trip DevCon 2014](https://developer.concur.com/devcon?utm_source=Blog_Evang&utm_medium=blog&utm_campaign=DevConBlogs) ($99 per ticket)** - For teams (2 tickets per team) that demonstrate the best of the Concur API + co-sponsor API onstage. For example, best use of Concur + Yodlee, Best use of Concur + Pebble, and so on. **Applies to all Disrupt co-sponsors listed in [mashup list above](#mashup)**. All contestants can also apply to pitch their app for a shot at $100K in prizes. (https://developer.concur.com/devcon/PerfectTripFundAwards)
-
+- **TBD**
 
 <a name="addl">Additional Information</a>
 --
@@ -82,9 +80,6 @@ The subsections below provide a more detailed information on how to:
   - [POST/GET dummy data to/from Concur](#dummy)
   - [Sample code](#samplecode)
   - [Example apps in the App Center and previous hackathons](#example)
-  - **Stuck?**  Contact Chris!
-    - *chris.ismael@concur.com*
-    - *@ConcurAPI* or *@chrispogeek*
 
 
  <a name="token">**Generate an access token**</a>
