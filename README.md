@@ -39,7 +39,8 @@ For the Itinerary APIs (v1.1), full API documentation, and apps that use the API
 <a name="mashup">Ideas for a Concur-powered business travel app:</a>
 --
 
-These are just examples from past external hackathons. We'd love for you to think beyond the ideas presented below :)
+These are just example ideas from past external hackathons. We'd love for you to think beyond the ideas presented below :)  Find other ideas [here](#example).  [Challengepost](http://challengepost.com/software/built-with/concur) lists Concur API integrations from previous hackathons.  Definitely worth checking out!
+
 
 Mash-up | Idea
 ------------- | -------------
@@ -65,7 +66,6 @@ Mash-up | Idea
 **Concur + Twitter** |
 **Concur + Yammer** | Coordinate group travel by pulling Concur itinerary API and dynamically creating a group in [Yammer](https://developer.yammer.com/restapi/) tied to flight date and destination
 
-Find more app ideas [here](#example)
 
 <a name="prizes">Prizes</a>
 --
@@ -281,10 +281,11 @@ The subsections below provide a more detailed information on how to:
 --
 All app integrations with Concur can be found in the [App Center](https://www.concur.com/en-us/app-center).  Below are just two examples that would hopefully give you an idea on what to build:
 
+- [Challengepost](http://challengepost.com/software/built-with/concur) lists Concur API integrations from previous hackathons.  Definitely worth checking out!
+
  - [TravelText](https://www.concur.com/en-us/partners/transaction-capture/traveltext) - TravelText allows you to text your expenses right into Concur. No more paper receipts and Excel sheet mayhem!  Check out their video demo [here](https://www.youtube.com/watch?v=sxY_PO-QKZ0).
 
  - [Trover](https://www.concur.com/en-us/app-center/listing/nDhf34TiiC9RCocFM2xViin5c/Trover) - it's travel photography + business travel integration in one great app. Quoting from this [article](http://skift.com/2013/07/25/travel-photography-app-trover-secures-2-5-million-in-funding-from-concur/#/0), what they get for integrating with Concur is *"being able to tap into Concur’s experience, knowledge and “great visibility into travel patterns”"*.
 
-[Challengepost](http://challengepost.com/software/built-with/concur) also lists Concur API integrations from previous hackathons.  Definitely worth checking out!
 
 [Back to Top](#addl)
