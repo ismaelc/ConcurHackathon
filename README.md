@@ -39,7 +39,9 @@ For the Itinerary APIs (v1.1), full API documentation, and apps that use the API
 <a name="mashup">Ideas for a Concur-powered business travel app:</a>
 --
 
-These are just example ideas from past external hackathons. We'd love for you to think beyond the ideas presented below :)  Find other ideas [here](#example).  [Challengepost](http://challengepost.com/software/built-with/concur) lists Concur API integrations from previous hackathons.  Definitely worth checking out!
+These are just example ideas from past external hackathons. We'd love for you to think beyond the ideas presented below :)  Find other ideas [here](#example).  
+
+[Challengepost](http://challengepost.com/software/built-with/concur) lists Concur API integrations from previous hackathons.  Definitely worth checking out!
 
 
 Mash-up | Idea
